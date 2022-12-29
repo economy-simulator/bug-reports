@@ -1,8 +1,8 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: "[Bug]:"
-labels: Arbiter, Bug, RCCService, TODO, Vulnerability
+title: "[BUG]:"
+labels: 'bug, STATUS: pending'
 assignees: 3UR
 
 ---
@@ -10,26 +10,21 @@ assignees: 3UR
 **Describe the bug**
 A clear and concise description of what the bug is.
 
-**To Reproduce (The steps below are just a example it doesnt have to be this format it can be any command)**
+**To Reproduce (The steps below are just a example it doesn't have to be this format neither does it have to be a API bug it can be client/web explain this how you like)**
 Steps to reproduce the behavior:
-1. Execute '...'
+1. Go to the API at /api/this
 2. Now '....'
-3. See error
+3. This is what has happened
 
 **Expected behavior**
-A clear and concise description of what you expected to happen.
+A clear and concise description of what you expected to happen instead of the 'bug'.
 
 **Screenshots**
-If possible please provide a Screenshot/Gif here of what happened
+If possible please provide a Screenshot/Video here of what happened
 
-**Bot Version (this can be found using the '/grid botversion' slash command):**
-- 1.0.0
+**Client Version (OPTIONAL)**
+- [VERSION]
 
-**LogFile name (this can be found using the '/grid logfile' slash command):**
- - 27d8_1.0.0_Last.log
-
-**Exception ID if the bot provided one.**
-- ID HERE
 
 **Additional Information**
 Add any other context about the problem here.
